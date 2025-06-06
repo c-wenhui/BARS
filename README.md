@@ -7,4 +7,7 @@ Due to the large memory space occupied by the train set of the BARS dataset, the
 
 https://pan.baidu.com/s/1NAgyOQ2Apza-3fYes7zUpw?pwd=bars
 
+If you don't have a Chinese mobile phone number to register for Baidu.com, you can download the data through this link: https://zenodo.org/records/15608707
+
 Link extraction code: bars
+
